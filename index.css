@@ -1,0 +1,132 @@
+.header-top{
+    background-color: #ed078b;
+    padding-top: 7px;
+    padding-bottom: 7px;
+
+}
+.social-icons span{
+    padding-left: 20px;
+}
+.address{
+    padding-left: 60px;
+}
+.submenu:hover .menu-drop{
+    display: block;
+}
+.bg-background{
+    background-image: url(assets/img/hero/h1_hero.png) ;height: 80vh;
+    background-position: center;
+    background-repeat: no-repeat;   
+    background-size: cover; 
+}
+.quality{
+    position: relative;
+    top: 60px;
+    width: 28rem; 
+    height:23rem; 
+    
+}
+.quality .card-body{
+    padding-top:4em;
+}    
+.quality .card-body h5{
+    font-size:4em;
+    color: #423f8d;
+}
+.quality .card-text{
+    font-size: 2em;
+    color:#fbce0f ;
+}
+
+.btn-quality{
+   background-color: #ed078b;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.text h2{
+    color: #423f8d;
+    font-size: 40PX
+    ;
+}
+.text p{
+    color: #423f8d;
+}
+.card-title{
+    text-align: center;
+    color:blue;
+}
+.card-text{
+    text-align: center;
+}
+.card-name{
+
+    text-align: left;
+    color: blue;
+}
+.card-front{
+
+    text-align: left;
+}
+.card{
+    border-radius: 20px !important;
+}
+.expert{
+    text-align: center ;color: blue;
+}
+.bg-event{
+    background-image: url(./assets/img/gallery/section_bg2.png);
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+.row{
+    text-align: center;
+}
+.bg-event .card{
+    position: relative;
+    left: 350px;
+    top: 100px; 
+}
+.btn-view{
+    background-color: #ed078b;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+}
+.testimony-icon img{
+max-width: 70px;
+}
+.testimony-icon{
+    position: relative;
+    left: 47%;
+}
+.f-icon{
+    background-color: #8088ff1a;
+    color:white;
+    width: 40px;
+    height: 40px;
+border-radius: 50%;
+font-size: 14px;
+line-height: 40px;
+display: inline-block;
+text-align: center;
+margin-right: 8px;
+}
+
+.f-icon:hover{
+    background-color: #ed078b;
+}
+.row{
+    color: white;
+}
+.row nav ul li{
+    list-style: none;
+    padding: 7px;
+    position: relative;
+    right: 50px;
+
+    text-align: center;
+}
